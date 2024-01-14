@@ -4,6 +4,10 @@
 ## Overview
 
 This project is a simple web application that allows users to upload an image and receive a classification result using a trained convolutional neural network (CNN). The CNN is trained to classify images into three categories: "Normal," "Covid," and "Viral Pneumonia."
+
+![x-ray](https://github.com/shamam99/Image-Classification-Web-App/assets/111068539/28b76433-a6a0-4297-89b2-e158a88bbad0)
+
+
 The basic working version has been uploaded and the modified version has created a CNN and L2 model. You are free to use the version you wish.
 
 
